@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm a Computer Science Student 👋
 
-<!--
-**Penpitcha13/Penpitcha13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student interested in web development and application development. I enjoy learning new technologies, building projects, and improving my programming skills.
 
-Here are some ideas to get you started:
+### 💻 Technical Skills
+- **Programming Languages:** JavaScript, SQL
+- **Web Development:** React, HTML, CSS
+- **Database:** Supabase
+- **Development Tools:** Android Studio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+
+- **My Doll Note** — An application for recording and organizing information about dolls.
+- **Hands2Hands** — A second-hand marketplace application designed for the University of the Thai Chamber of Commerce (UTCC) community.
+
+### 🌱 Currently
+- Improving my programming and problem-solving skills.
+- Expanding my knowledge of web and application development.
+- Seeking an internship opportunity to gain hands-on experience and grow as a developer.
+

@@ -1,4 +1,4 @@
-# Hi, I'm a Computer Science Student 👋
+# Hi, I'm Penpitcha 👋
 
 I'm a Computer Science student interested in web development and application development. I enjoy learning new technologies, building projects, and improving my programming skills.
 
